@@ -5,7 +5,7 @@ var livereload = require('gulp-livereload');
 
 var paths = {
 	scripts: 'public/scripts/lib/**/*.js',
-	scriptsDest: 'publuc/scripts'
+	scriptsDest: 'public/scripts'
 };
 
 gulp.task('scripts', function(){
